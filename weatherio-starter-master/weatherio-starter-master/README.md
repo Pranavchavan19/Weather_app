@@ -50,7 +50,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [Pranav Chavan](https://www.github.com/codewithsadee)
 
 ## License
 
