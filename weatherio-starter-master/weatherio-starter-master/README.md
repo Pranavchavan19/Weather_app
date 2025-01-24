@@ -54,7 +54,7 @@ Open with live server
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/Pranavchavan19))
 
 ## Support
 
